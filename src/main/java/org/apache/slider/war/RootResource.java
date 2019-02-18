@@ -20,6 +20,6 @@ public class RootResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getIt() {
-        return "Success karthi";
+        return "Success karthikeyan";
     }
 }
